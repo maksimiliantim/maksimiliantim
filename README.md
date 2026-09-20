@@ -68,12 +68,30 @@ At a private investment fund: build classification, regression, and text-analysi
 
 ## Featured Projects
 
-### Neural Network Surrogate for Wing Aerodynamics
-> Scientific ML · Physics-Informed Networks · CFD Surrogate
+### RL Execution Agent for Futures Trading
+> Reinforcement Learning · Market Microstructure · CME
 
-Trained a neural network to approximate steady-state flow fields around a wing cross-section, replacing iterative numerical solvers with a learned surrogate. The model maps geometry and flow parameters to pressure and velocity distributions; the loss combines a data-fidelity term with PDE residual enforcement to respect physical boundary conditions. Evaluated on spatial accuracy metrics across varied flow conditions — the core challenge is generalization to unseen geometries without rerunning the full simulation.
+Trained a PPO agent to optimize order execution on CME crude oil futures, minimizing slippage against a VWAP benchmark. State space encodes order book imbalance, time-of-day, remaining inventory, and short-term momentum; reward penalizes adverse price impact and rewards fill quality relative to arrival price. Backtested in a simulated limit order book environment built on historical tick data; compared against TWAP and aggressive market-order baselines.
 
-`Python` `PyTorch` `Scientific ML` `Physics-Informed NN` `PDE Residual Loss`
+`Python` `PyTorch` `Gymnasium` `PPO` `CME Tick Data` `Order Book`
+
+---
+
+### Gradient Boosting Signal Pipeline for Intraday Price Prediction
+> Quantitative ML · Feature Engineering · Time Series
+
+XGBoost classifier trained to predict short-term directional price moves on futures tick data. Feature set covers multi-scale momentum, rolling volume imbalance, bid-ask spread dynamics, and lagged return autocorrelation. Handled non-stationarity via walk-forward cross-validation with expanding windows; calibrated predicted probabilities to produce reliable signal confidence scores for downstream position sizing.
+
+`Python` `XGBoost` `scikit-learn` `Walk-Forward CV` `Tick Data` `Signal Research`
+
+---
+
+### Time Series Regime Detection and Forecasting
+> Statistical Modeling · Hidden Markov Models · Forecasting
+
+Implemented a Hidden Markov Model to identify latent market regimes (trending, mean-reverting, high-volatility) from daily return and volume features. Regime labels used as conditioning input to a regime-specific ARIMA/GARCH forecasting stack. Evaluated on out-of-sample log-likelihood and volatility forecast accuracy; HMM-conditioned models outperformed unconditional baselines across regime transitions.
+
+`Python` `hmmlearn` `statsmodels` `GARCH` `ARIMA` `Regime Switching`
 
 ---
 
@@ -83,6 +101,20 @@ Trained a neural network to approximate steady-state flow fields around a wing c
 End-to-end pipeline implementing CBOE OVX methodology on CME WTI crude oil options and futures chains ingested via DataBento. Selects near-term and next-term contract months, applies model-free variance estimation across the full options strike surface, handles expiry alignment and forward price derivation from the futures term structure, and outputs a 30-day forward-looking implied volatility index. Focus on data integrity, reproducible calculation steps, and handling gaps in sparse strike grids.
 
 `Python` `DataBento` `SQL` `CME Data` `Options Math` `Volatility Surface`
+
+---
+
+<details>
+<summary>Other work</summary>
+
+### Neural Network Surrogate for Wing Aerodynamics
+> Scientific ML · Physics-Informed Networks · CFD Surrogate
+
+Trained a neural network to approximate steady-state flow fields around a wing cross-section, replacing iterative numerical solvers with a learned surrogate. Loss combines a data-fidelity term with PDE residual enforcement to respect physical boundary conditions. Core challenge: generalization to unseen geometries without rerunning the full simulation.
+
+`Python` `PyTorch` `Physics-Informed NN` `PDE Residual Loss`
+
+</details>
 
 ---
 
