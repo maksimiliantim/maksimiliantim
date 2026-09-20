@@ -21,11 +21,12 @@
 
 ## About
 
-Quantitative analyst and ML engineer working at the intersection of statistical modeling, financial markets, and applied deep learning. Currently completing an M.Sc. in Machine Learning and Data Analysis at the Moscow Aviation Institute, building on a B.Sc. in Statistics from MIREA.
+B.Sc. Statistics, MIREA · M.Sc. Machine Learning and Data Analysis, Moscow Aviation Institute (2026)
 
-At a private investment fund, research focuses on exchange-activity monitoring, algorithmic trading strategy development, and building predictive models over tick history, CME crude oil options/futures data, and DataBento market-data pipelines. Project work extends into scientific ML — neural-network aerodynamic simulation — where rigorous statistical methodology meets engineering implementation.
+At a private investment fund: build classification, regression, and text-analysis ML pipelines in Python on tick-level market databases (CME crude oil options and futures); research data-driven and algorithmic trading strategies against market microstructure data; explore reinforcement learning approaches to strategy optimization. Separately, built an OVX-style implied volatility pipeline over DataBento feeds and a physics-informed neural network surrogate for aerodynamic flow simulation.
 
-**Interests:** time series forecasting · quantitative finance · deep learning · reinforcement learning · statistical modeling · scientific ML
+**Stack:** Python · C++ · PyTorch · SQL/PostgreSQL · CUDA · scikit-learn · XGBoost · Docker  
+**Domain:** time series · statistical modeling · quantitative finance · deep learning · scientific ML
 
 ---
 
@@ -67,21 +68,21 @@ At a private investment fund, research focuses on exchange-activity monitoring, 
 
 ## Featured Projects
 
-### Neural Network Airflow and Wing Modeling
-> Scientific ML · Physics-Informed Networks · Aerodynamics
+### Neural Network Surrogate for Wing Aerodynamics
+> Scientific ML · Physics-Informed Networks · CFD Surrogate
 
-Neural-network surrogate model for aerodynamic airflow around a wing cross-section. Applies data-driven modeling to a computational physics problem — the core challenge being to replace expensive numerical solvers with a learned model that generalizes across flow conditions while respecting physical constraints. Statistical reasoning and rigorous model evaluation are central throughout.
+Trained a neural network to approximate steady-state flow fields around a wing cross-section, replacing iterative numerical solvers with a learned surrogate. The model maps geometry and flow parameters to pressure and velocity distributions; the loss combines a data-fidelity term with PDE residual enforcement to respect physical boundary conditions. Evaluated on spatial accuracy metrics across varied flow conditions — the core challenge is generalization to unseen geometries without rerunning the full simulation.
 
-`Python` `PyTorch` `Scientific ML` `Neural PDE` `Data-Driven Modeling`
+`Python` `PyTorch` `Scientific ML` `Physics-Informed NN` `PDE Residual Loss`
 
 ---
 
-### Market Data & OVX-like Volatility Calculation Pipeline
-> Quantitative Data Engineering · Options · Time Series
+### OVX-Style Implied Volatility Pipeline
+> Quantitative Data Engineering · Options Pricing · Time Series
 
-End-to-end pipeline for market data ingestion and OVX-like volatility index calculation built on DataBento data feeds. Processes CME-sourced weekly crude oil options and futures data through reproducible calculation steps aligned with standard volatility index methodology. Emphasizes time-series reasoning, data integrity, and financial-market data handling.
+End-to-end pipeline implementing CBOE OVX methodology on CME WTI crude oil options and futures chains ingested via DataBento. Selects near-term and next-term contract months, applies model-free variance estimation across the full options strike surface, handles expiry alignment and forward price derivation from the futures term structure, and outputs a 30-day forward-looking implied volatility index. Focus on data integrity, reproducible calculation steps, and handling gaps in sparse strike grids.
 
-`Python` `DataBento` `SQL` `CME Data` `Time Series` `Options Math`
+`Python` `DataBento` `SQL` `CME Data` `Options Math` `Volatility Surface`
 
 ---
 
