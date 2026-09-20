@@ -1,0 +1,120 @@
+<svg width="900" height="270" viewBox="0 0 900 270" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#f0f7ff"/>
+      <stop offset="100%" stop-color="#e8f1fb"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#0369a1"/>
+      <stop offset="48%"  stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#0369a1" stop-opacity="0"/>
+      <stop offset="22%"  stop-color="#0369a1" stop-opacity="1"/>
+      <stop offset="78%"  stop-color="#6d28d9" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="brktGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="c0">
+      <rect x="0" y="0" width="0" height="270">
+        <animate attributeName="width" from="0" to="900" dur="1s" fill="freeze" begin="0.1s"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c1">
+      <rect x="0" y="0" width="0" height="270">
+        <animate attributeName="width" from="0" to="900" dur="0.7s" fill="freeze" begin="0.9s"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="0" y="0" width="0" height="270">
+        <animate attributeName="width" from="0" to="900" dur="0.7s" fill="freeze" begin="1.4s"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c3">
+      <rect x="0" y="0" width="0" height="270">
+        <animate attributeName="width" from="0" to="900" dur="0.7s" fill="freeze" begin="1.9s"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="270" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g stroke="#cddcee" stroke-width="0.6">
+    <line x1="0" y1="67" x2="900" y2="67"/>
+    <line x1="0" y1="135" x2="900" y2="135"/>
+    <line x1="0" y1="202" x2="900" y2="202"/>
+    <line x1="180" y1="0" x2="180" y2="270"/>
+    <line x1="360" y1="0" x2="360" y2="270"/>
+    <line x1="540" y1="0" x2="540" y2="270"/>
+    <line x1="720" y1="0" x2="720" y2="270"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <path d="M 68 22 L 22 22 L 22 68" stroke="url(#brktGrad)" stroke-width="1.6" fill="none"/>
+  <circle cx="22" cy="22" r="3" fill="#0369a1" opacity="0.85"/>
+  <path d="M 832 22 L 878 22 L 878 68" stroke="url(#brktGrad)" stroke-width="1.6" fill="none"/>
+  <circle cx="878" cy="22" r="3" fill="#0369a1" opacity="0.85"/>
+  <path d="M 68 248 L 22 248 L 22 202" stroke="url(#brktGrad)" stroke-width="1.6" fill="none"/>
+  <circle cx="22" cy="248" r="3" fill="#6d28d9" opacity="0.85"/>
+  <path d="M 832 248 L 878 248 L 878 202" stroke="url(#brktGrad)" stroke-width="1.6" fill="none"/>
+  <circle cx="878" cy="248" r="3" fill="#6d28d9" opacity="0.85"/>
+
+  <!-- Faint orbit rings -->
+  <circle cx="450" cy="125" r="88" fill="none" stroke="#0369a1" stroke-width="0.4" opacity="0.08"/>
+  <circle cx="450" cy="125" r="112" fill="none" stroke="#6d28d9" stroke-width="0.4" opacity="0.06"/>
+
+  <!-- NAME -->
+  <text x="450" y="112"
+    text-anchor="middle"
+    font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
+    font-size="52" font-weight="700" letter-spacing="2"
+    fill="url(#nameGrad)" filter="url(#glow)"
+    clip-path="url(#c0)">Maksim Timoshuk</text>
+
+  <!-- Separator line -->
+  <rect x="215" y="128" width="470" height="1.5" fill="url(#lineGrad)" clip-path="url(#c1)"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="153"
+    text-anchor="middle"
+    font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
+    font-size="14.5" letter-spacing="0.9" fill="#4b6080"
+    clip-path="url(#c1)">Quantitative ML Engineer  ·  Machine Learning Engineer</text>
+
+  <!-- Tag pills -->
+  <g clip-path="url(#c2)" font-family="'Segoe UI', system-ui, sans-serif" font-size="10.5">
+    <rect x="146" y="178" width="44" height="20" rx="5" fill="#0369a1" fill-opacity="0.1" stroke="#0369a1" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="168" y="192" text-anchor="middle" fill="#0369a1">ML</text>
+
+    <rect x="198" y="178" width="98" height="20" rx="5" fill="#0369a1" fill-opacity="0.07" stroke="#0369a1" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text x="247" y="192" text-anchor="middle" fill="#0284c7">Deep Learning</text>
+
+    <rect x="304" y="178" width="88" height="20" rx="5" fill="#6d28d9" fill-opacity="0.1" stroke="#7c3aed" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="348" y="192" text-anchor="middle" fill="#6d28d9">Time Series</text>
+
+    <rect x="400" y="178" width="74" height="20" rx="5" fill="#6d28d9" fill-opacity="0.08" stroke="#7c3aed" stroke-width="0.8" stroke-opacity="0.45"/>
+    <text x="437" y="192" text-anchor="middle" fill="#7c3aed">Statistics</text>
+
+    <rect x="482" y="178" width="100" height="20" rx="5" fill="#1d4ed8" fill-opacity="0.08" stroke="#2563eb" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="532" y="192" text-anchor="middle" fill="#1d4ed8">Quant Finance</text>
+
+    <rect x="590" y="178" width="58" height="20" rx="5" fill="#1d4ed8" fill-opacity="0.07" stroke="#2563eb" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text x="619" y="192" text-anchor="middle" fill="#2563eb">Python</text>
+
+    <rect x="656" y="178" width="76" height="20" rx="5" fill="#0284c7" fill-opacity="0.08" stroke="#0369a1" stroke-width="0.8" stroke-opacity="0.45"/>
+    <text x="694" y="192" text-anchor="middle" fill="#0369a1">DataBento</text>
+  </g>
+
+  <!-- Bottom accent line -->
+  <rect x="120" y="228" width="660" height="1" fill="url(#lineGrad)" clip-path="url(#c3)"/>
+</svg>

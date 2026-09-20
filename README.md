@@ -1,0 +1,128 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/dark.svg">
+  <img alt="Maksim Timoshuk — Quantitative ML Engineer" src="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="mailto:timoshchuk-2002@mail.ru">
+    <img src="https://img.shields.io/badge/Email-timoshchuk--2002%40mail.ru-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/maksim_tshchk">
+    <img src="https://img.shields.io/badge/Telegram-%40maksim__tshchk-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/maksimiliantim">
+    <img src="https://img.shields.io/badge/GitHub-maksimiliantim-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## About
+
+Quantitative analyst and ML engineer working at the intersection of statistical modeling, financial markets, and applied deep learning. Currently completing an M.Sc. in Machine Learning and Data Analysis at the Moscow Aviation Institute, building on a B.Sc. in Statistics from MIREA.
+
+At a private investment fund, research focuses on exchange-activity monitoring, algorithmic trading strategy development, and building predictive models over tick history, CME crude oil options/futures data, and DataBento market-data pipelines. Project work extends into scientific ML — neural-network aerodynamic simulation — where rigorous statistical methodology meets engineering implementation.
+
+**Interests:** time series forecasting · quantitative finance · deep learning · reinforcement learning · statistical modeling · scientific ML
+
+---
+
+## Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logoColor=white)
+
+**Statistics & Quantitative Finance**
+
+![Mathematical Statistics](https://img.shields.io/badge/Mathematical_Statistics-0ea5e9?style=flat-square&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-7c3aed?style=flat-square&logoColor=white)
+![DataBento](https://img.shields.io/badge/DataBento-0f172a?style=flat-square&logoColor=white)
+![CME Data](https://img.shields.io/badge/CME_Market_Data-003087?style=flat-square&logoColor=white)
+
+**Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+### Neural Network Airflow and Wing Modeling
+> Scientific ML · Physics-Informed Networks · Aerodynamics
+
+Neural-network surrogate model for aerodynamic airflow around a wing cross-section. Applies data-driven modeling to a computational physics problem — the core challenge being to replace expensive numerical solvers with a learned model that generalizes across flow conditions while respecting physical constraints. Statistical reasoning and rigorous model evaluation are central throughout.
+
+`Python` `PyTorch` `Scientific ML` `Neural PDE` `Data-Driven Modeling`
+
+---
+
+### Market Data & OVX-like Volatility Calculation Pipeline
+> Quantitative Data Engineering · Options · Time Series
+
+End-to-end pipeline for market data ingestion and OVX-like volatility index calculation built on DataBento data feeds. Processes CME-sourced weekly crude oil options and futures data through reproducible calculation steps aligned with standard volatility index methodology. Emphasizes time-series reasoning, data integrity, and financial-market data handling.
+
+`Python` `DataBento` `SQL` `CME Data` `Time Series` `Options Math`
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maksimiliantim&theme=github_dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=94a3b8&ring_color=00d9ff" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimiliantim&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maksimiliantim&theme=dark&hide_border=true&stroke=00000000&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=94A3B8&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=maksimiliantim&theme=github-compact&bg_color=0d1117&color=00d9ff&line=7c3aed&point=60a5fa&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Activity"/>
+</p>
+
+---
+
+<details>
+<summary><strong>Setup & Deployment</strong></summary>
+
+### Steps
+
+1. On GitHub, create a **new public repository** named exactly `maksimiliantim` (same as your username).
+2. Upload `README.md`, `dark.svg`, and `light.svg` to the root of that repository.
+3. The profile appears automatically on your GitHub profile page.
+
+### Values to replace
+
+| Placeholder | Replace with |
+|---|---|
+| `YOUR_LINKEDIN_URL` | Your LinkedIn profile URL, e.g. `https://linkedin.com/in/your-handle` |
+
+All other URLs already contain your username `maksimiliantim` — no changes needed.
+
+### Services used
+
+| Service | Purpose |
+|---|---|
+| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Stats cards and top languages |
+| [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Contribution streak widget |
+| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Activity graph |
+| [shields.io](https://shields.io) | Tech stack and contact badges |
+
+All services are free and publicly maintained. Stats update automatically on each GitHub visit.
+
+</details>
