@@ -1,141 +1,36 @@
-<svg width="900" height="270" viewBox="0 0 900 270" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0%" stop-color="#040c17"/>
-      <stop offset="100%" stop-color="#0b1929"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#00d9ff"/>
-      <stop offset="48%"  stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#60a5fa"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#00d9ff" stop-opacity="0"/>
-      <stop offset="22%"  stop-color="#00d9ff" stop-opacity="1"/>
-      <stop offset="78%"  stop-color="#7c3aed" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="tlGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softGlow" x="-15%" y="-50%" width="130%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="900" height="200" fill="#0d1117"/>
 
-    <!-- Sequential reveal clip paths -->
-    <clipPath id="c0">
-      <rect x="0" y="0" width="0" height="270">
-        <animate attributeName="width" from="0" to="900" dur="1s" fill="freeze" begin="0.1s"/>
-      </rect>
-    </clipPath>
-    <clipPath id="c1">
-      <rect x="0" y="0" width="0" height="270">
-        <animate attributeName="width" from="0" to="900" dur="0.7s" fill="freeze" begin="0.9s"/>
-      </rect>
-    </clipPath>
-    <clipPath id="c2">
-      <rect x="0" y="0" width="0" height="270">
-        <animate attributeName="width" from="0" to="900" dur="0.7s" fill="freeze" begin="1.4s"/>
-      </rect>
-    </clipPath>
-    <clipPath id="c3">
-      <rect x="0" y="0" width="0" height="270">
-        <animate attributeName="width" from="0" to="900" dur="0.7s" fill="freeze" begin="1.9s"/>
-      </rect>
-    </clipPath>
-  </defs>
+  <text x="52" y="82" font-size="36" font-weight="600" fill="#e6edf3" letter-spacing="-0.4">Maksim Timoshchuk</text>
+  <text x="52" y="109" font-size="13.5" fill="#8b949e" letter-spacing="0.2">Quantitative ML Engineer · Machine Learning Engineer</text>
+  <rect x="52" y="125" width="56" height="2" fill="#d29922"/>
+  <text x="52" y="153" font-size="11.5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0.2">Moscow  ·  Python / C++ / PyTorch  ·  Options &amp; Time Series</text>
 
-  <!-- Background -->
-  <rect width="900" height="270" fill="url(#bg)"/>
+  <g stroke="#161b22" stroke-width="1">
+    <line x1="584" y1="72"  x2="852" y2="72"/>
+    <line x1="584" y1="101" x2="852" y2="101"/>
+    <line x1="584" y1="130" x2="852" y2="130"/>
+  </g>
+  <line x1="584" y1="152" x2="852" y2="152" stroke="#21262d" stroke-width="1"/>
+  <line x1="768" y1="50" x2="768" y2="152" stroke="#30363d" stroke-width="1" stroke-dasharray="2 4"/>
 
-  <!-- Subtle grid -->
-  <g stroke="#122035" stroke-width="0.6">
-    <line x1="0" y1="67" x2="900" y2="67"/>
-    <line x1="0" y1="135" x2="900" y2="135"/>
-    <line x1="0" y1="202" x2="900" y2="202"/>
-    <line x1="180" y1="0" x2="180" y2="270"/>
-    <line x1="360" y1="0" x2="360" y2="270"/>
-    <line x1="540" y1="0" x2="540" y2="270"/>
-    <line x1="720" y1="0" x2="720" y2="270"/>
+  <path d="M 584 64 C 642 94, 692 117, 742 125 S 814 123, 846 110"
+        fill="none" stroke="#d29922" stroke-width="1.6" stroke-linecap="round"/>
+
+  <g fill="#e3b341">
+    <circle cx="584" cy="63"  r="2.2"/>
+    <circle cx="610" cy="77"  r="2.2"/>
+    <circle cx="636" cy="87"  r="2.2"/>
+    <circle cx="662" cy="101" r="2.2"/>
+    <circle cx="688" cy="109" r="2.2"/>
+    <circle cx="714" cy="119" r="2.2"/>
+    <circle cx="740" cy="124" r="2.2"/>
+    <circle cx="768" cy="127" r="2.6"/>
+    <circle cx="794" cy="124" r="2.2"/>
+    <circle cx="820" cy="118" r="2.2"/>
+    <circle cx="846" cy="109" r="2.2"/>
   </g>
 
-  <!-- Corner brackets -->
-  <!-- top-left -->
-  <path d="M 68 22 L 22 22 L 22 68" stroke="url(#tlGrad)" stroke-width="1.6" fill="none"/>
-  <circle cx="22" cy="22" r="3" fill="#00d9ff" opacity="0.9"/>
-  <!-- top-right -->
-  <path d="M 832 22 L 878 22 L 878 68" stroke="url(#tlGrad)" stroke-width="1.6" fill="none"/>
-  <circle cx="878" cy="22" r="3" fill="#00d9ff" opacity="0.9"/>
-  <!-- bottom-left -->
-  <path d="M 68 248 L 22 248 L 22 202" stroke="url(#tlGrad)" stroke-width="1.6" fill="none"/>
-  <circle cx="22" cy="248" r="3" fill="#7c3aed" opacity="0.9"/>
-  <!-- bottom-right -->
-  <path d="M 832 248 L 878 248 L 878 202" stroke="url(#tlGrad)" stroke-width="1.6" fill="none"/>
-  <circle cx="878" cy="248" r="3" fill="#7c3aed" opacity="0.9"/>
-
-  <!-- Faint orbit rings around center -->
-  <circle cx="450" cy="125" r="88" fill="none" stroke="#00d9ff" stroke-width="0.3" opacity="0.07"/>
-  <circle cx="450" cy="125" r="112" fill="none" stroke="#7c3aed" stroke-width="0.3" opacity="0.05"/>
-
-  <!-- NAME -->
-  <text x="450" y="112"
-    text-anchor="middle"
-    font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
-    font-size="52" font-weight="700" letter-spacing="2"
-    fill="url(#nameGrad)" filter="url(#glow)"
-    clip-path="url(#c0)">Maksim Timoshchuk</text>
-
-  <!-- Separator line -->
-  <rect x="215" y="128" width="470" height="1.5" fill="url(#lineGrad)" clip-path="url(#c1)"/>
-
-  <!-- Subtitle -->
-  <text x="450" y="153"
-    text-anchor="middle"
-    font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
-    font-size="14.5" letter-spacing="0.9" fill="#7e8fa3"
-    clip-path="url(#c1)">Quantitative ML Engineer  ·  Machine Learning Engineer</text>
-
-  <!-- Tag pills -->
-  <g clip-path="url(#c2)" font-family="'Segoe UI', system-ui, sans-serif" font-size="10.5">
-    <!-- ML -->
-    <rect x="146" y="178" width="44" height="20" rx="5" fill="#00d9ff" fill-opacity="0.12" stroke="#00d9ff" stroke-width="0.8" stroke-opacity="0.6"/>
-    <text x="168" y="192" text-anchor="middle" fill="#67e8f9">ML</text>
-    <!-- Deep Learning -->
-    <rect x="198" y="178" width="98" height="20" rx="5" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="247" y="192" text-anchor="middle" fill="#7dd3fc">Deep Learning</text>
-    <!-- Time Series -->
-    <rect x="304" y="178" width="88" height="20" rx="5" fill="#7c3aed" fill-opacity="0.12" stroke="#a78bfa" stroke-width="0.8" stroke-opacity="0.6"/>
-    <text x="348" y="192" text-anchor="middle" fill="#c4b5fd">Time Series</text>
-    <!-- Statistics -->
-    <rect x="400" y="178" width="74" height="20" rx="5" fill="#8b5cf6" fill-opacity="0.1" stroke="#a78bfa" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="437" y="192" text-anchor="middle" fill="#ddd6fe">Statistics</text>
-    <!-- Quant Finance -->
-    <rect x="482" y="178" width="100" height="20" rx="5" fill="#3b82f6" fill-opacity="0.1" stroke="#60a5fa" stroke-width="0.8" stroke-opacity="0.55"/>
-    <text x="532" y="192" text-anchor="middle" fill="#93c5fd">Quant Finance</text>
-    <!-- Python -->
-    <rect x="590" y="178" width="58" height="20" rx="5" fill="#3b82f6" fill-opacity="0.08" stroke="#60a5fa" stroke-width="0.8" stroke-opacity="0.45"/>
-    <text x="619" y="192" text-anchor="middle" fill="#bfdbfe">Python</text>
-    <!-- C++ -->
-    <rect x="656" y="178" width="46" height="20" rx="5" fill="#0ea5e9" fill-opacity="0.1" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="679" y="192" text-anchor="middle" fill="#7dd3fc">C++</text>
-  </g>
-
-  <!-- Bottom accent line -->
-  <rect x="120" y="228" width="660" height="1" fill="url(#lineGrad)" clip-path="url(#c3)"/>
-
-  <!-- Subtle continuous name shimmer (very low opacity) -->
-  <text x="450" y="112"
-    text-anchor="middle"
-    font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
-    font-size="52" font-weight="700" letter-spacing="2"
-    fill="url(#nameGrad)" opacity="0">
-    Maksim Timoshchuk
-    <animate attributeName="opacity" values="0;0;0;0.18;0.08;0;0;0" dur="9s" repeatCount="indefinite" begin="4s"/>
-  </text>
+  <text x="768" y="44" text-anchor="middle" font-size="9.5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">ATM</text>
+  <text x="852" y="168" text-anchor="end" font-size="10" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">implied volatility smile</text>
 </svg>

@@ -5,15 +5,11 @@
 
 <p align="center">
   <a href="mailto:timmmaksim01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-timmmaksim01%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email"/>
+    <img src="https://img.shields.io/badge/timmmaksim01%40gmail.com-0d1117?style=flat-square&logo=maildotru&logoColor=8b949e&labelColor=161b22" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://t.me/maksim_tshchk">
-    <img src="https://img.shields.io/badge/Telegram-%40maksim__tshchk-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/maksimiliantim">
-    <img src="https://img.shields.io/badge/GitHub-maksimiliantim-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/%40maksim__tshchk-0d1117?style=flat-square&logo=telegram&logoColor=8b949e&labelColor=161b22" alt="Telegram"/>
   </a>
 </p>
 
@@ -25,48 +21,47 @@ B.Sc. Statistics, MIREA · M.Sc. Machine Learning and Data Analysis, Moscow Avia
 
 At a private investment fund: build classification, regression, and text-analysis ML pipelines in Python on tick-level market databases (CME crude oil options and futures); research data-driven and algorithmic trading strategies against market microstructure data; explore reinforcement learning approaches to strategy optimization. Separately, built an OVX-style implied volatility pipeline over DataBento feeds and a physics-informed neural network surrogate for aerodynamic flow simulation.
 
-**Stack:** Python · C++ · PyTorch · SQL/PostgreSQL · CUDA · scikit-learn · XGBoost · Docker  
-**Domain:** time series · statistical modeling · quantitative finance · deep learning · scientific ML
+**Focus:** time series · statistical modeling · quantitative finance · deep learning · scientific ML
 
 ---
 
-## Tech Stack
+## Stack
 
-**Languages & Data**
+**Languages & data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4B8BBE&labelColor=161b22)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=649AD2&labelColor=161b22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7BA7CE&labelColor=161b22)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=8CB4D8&labelColor=161b22)
+![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=9D8CD8&labelColor=161b22)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=8FA3C8&labelColor=161b22)
 
-**Machine Learning & Deep Learning**
+**Machine learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/Gymnasium_RL-0064a5?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=E5804F&labelColor=161b22)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=E0A052&labelColor=161b22)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=E0A052&labelColor=161b22)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&labelColor=161b22)
+![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=flat-square&logo=nvidia&logoColor=9DBF6B&labelColor=161b22)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0d1117?style=flat-square&labelColor=161b22)
 
-**Statistics & Quantitative Finance**
+**Quantitative**
 
-![Mathematical Statistics](https://img.shields.io/badge/Mathematical_Statistics-0ea5e9?style=flat-square&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-7c3aed?style=flat-square&logoColor=white)
-![DataBento](https://img.shields.io/badge/DataBento-0f172a?style=flat-square&logoColor=white)
-![CME Data](https://img.shields.io/badge/CME_Market_Data-003087?style=flat-square&logoColor=white)
+![Mathematical statistics](https://img.shields.io/badge/mathematical_statistics-0d1117?style=flat-square&labelColor=161b22)
+![Time series](https://img.shields.io/badge/time_series-0d1117?style=flat-square&labelColor=161b22)
+![Options pricing](https://img.shields.io/badge/options_pricing-0d1117?style=flat-square&labelColor=161b22)
+![DataBento](https://img.shields.io/badge/DataBento-0d1117?style=flat-square&labelColor=161b22)
+![CME market data](https://img.shields.io/badge/CME_market_data-0d1117?style=flat-square&labelColor=161b22)
 
 **Infrastructure**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=D88C6B&labelColor=161b22)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7BA7CE&labelColor=161b22)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=D8C58C&labelColor=161b22)
 
 ---
 
-## Featured Projects
+## Selected work
 
 ### RL Execution Agent for Futures Trading
 > Reinforcement Learning · Market Microstructure · CME
@@ -118,50 +113,27 @@ Trained a neural network to approximate steady-state flow fields around a wing c
 
 ---
 
-## GitHub Statistics
+## Activity
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maksimiliantim&theme=github_dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=94a3b8&ring_color=00d9ff" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimiliantim&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maksimiliantim&theme=dark&hide_border=true&stroke=00000000&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=94A3B8&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=maksimiliantim&theme=github-compact&bg_color=0d1117&color=00d9ff&line=7c3aed&point=60a5fa&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Activity"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/dist/stats-dark.svg">
+  <img alt="Contribution activity, streaks, and language distribution" src="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/dist/stats-light.svg" width="100%">
+</picture>
 
 ---
 
 <details>
-<summary><strong>Setup & Deployment</strong></summary>
+<summary><strong>How this profile is built</strong></summary>
 
-### Steps
-
-1. On GitHub, create a **new public repository** named exactly `maksimiliantim` (same as your username).
-2. Upload `README.md`, `dark.svg`, and `light.svg` to the root of that repository.
-3. The profile appears automatically on your GitHub profile page.
-
-### Values to replace
-
-| Placeholder | Replace with |
+| Path | Role |
 |---|---|
-| `YOUR_LINKEDIN_URL` | Your LinkedIn profile URL, e.g. `https://linkedin.com/in/your-handle` |
+| `dark.svg` / `light.svg` | Header, hand-written SVG, theme-switched via `<picture>` |
+| `dist/stats-*.svg` | Contribution heatmap, streaks, language split — generated, not hotlinked |
+| `scripts/render-stats.mjs` | Queries the GitHub GraphQL API and renders both themes |
+| `.github/workflows/stats.yml` | Runs the renderer daily and commits any change |
 
-All other URLs already contain your username `maksimiliantim` — no changes needed.
+The stats are rendered in-repo rather than fetched from a third-party widget host, so nothing can rate-limit or go offline. No secrets to configure — the workflow uses the built-in `GITHUB_TOKEN`.
 
-### Services used
-
-| Service | Purpose |
-|---|---|
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Stats cards and top languages |
-| [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Contribution streak widget |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Activity graph |
-| [shields.io](https://shields.io) | Tech stack and contact badges |
-
-All services are free and publicly maintained. Stats update automatically on each GitHub visit.
+Refresh manually: Actions → **stats** → Run workflow.
 
 </details>
