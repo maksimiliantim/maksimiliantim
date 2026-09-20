@@ -121,9 +121,9 @@
     <!-- Python -->
     <rect x="590" y="178" width="58" height="20" rx="5" fill="#3b82f6" fill-opacity="0.08" stroke="#60a5fa" stroke-width="0.8" stroke-opacity="0.45"/>
     <text x="619" y="192" text-anchor="middle" fill="#bfdbfe">Python</text>
-    <!-- DataBento -->
-    <rect x="656" y="178" width="76" height="20" rx="5" fill="#0ea5e9" fill-opacity="0.1" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="694" y="192" text-anchor="middle" fill="#7dd3fc">DataBento</text>
+    <!-- C++ -->
+    <rect x="656" y="178" width="46" height="20" rx="5" fill="#0ea5e9" fill-opacity="0.1" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="679" y="192" text-anchor="middle" fill="#7dd3fc">C++</text>
   </g>
 
   <!-- Bottom accent line -->
