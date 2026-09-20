@@ -4,8 +4,8 @@
 </picture>
 
 <p align="center">
-  <a href="mailto:timoshchuk-2002@mail.ru">
-    <img src="https://img.shields.io/badge/Email-timoshchuk--2002%40mail.ru-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email"/>
+  <a href="mailto:timmmaksim01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-timmmaksim01%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://t.me/maksim_tshchk">
