@@ -21,9 +21,11 @@
 
 B.Sc. Statistics, MIREA · M.Sc. Machine Learning and Data Analysis, Moscow Aviation Institute (2026)
 
-At a private investment fund: build classification, regression, and text-analysis ML pipelines in Python on tick-level market databases (CME crude oil options and futures); research data-driven and algorithmic trading strategies against market microstructure data; explore reinforcement learning approaches to strategy optimization. Separately, built an OVX-style implied volatility pipeline over DataBento feeds and a physics-informed neural network surrogate for aerodynamic flow simulation.
+At a private investment fund: build classification, regression, and text-analysis ML pipelines in Python on tick-level market databases (CME crude oil options and futures); research data-driven and algorithmic trading strategies against market microstructure data; explore reinforcement learning approaches to strategy optimization.
 
-**Focus:** time series · statistical modeling · quantitative finance · deep learning · scientific ML
+Most of the work comes down to whether a result survives contact with live data — walk-forward validation over expanding windows rather than random splits, calibrated probabilities rather than raw model scores, and explicit treatment of regime changes rather than an assumption of stationarity. Drop to C++ when a research loop is too slow to iterate on in Python.
+
+**Focus:** options and volatility · market microstructure · time series · statistical modeling · deep learning
 
 ---
 
