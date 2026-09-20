@@ -79,7 +79,7 @@
     font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif"
     font-size="52" font-weight="700" letter-spacing="2"
     fill="url(#nameGrad)" filter="url(#glow)"
-    clip-path="url(#c0)">Maksim Timoshuk</text>
+    clip-path="url(#c0)">Maksim Timoshchuk</text>
 
   <!-- Separator line -->
   <rect x="215" y="128" width="470" height="1.5" fill="url(#lineGrad)" clip-path="url(#c1)"/>

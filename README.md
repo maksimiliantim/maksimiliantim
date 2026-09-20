@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/dark.svg">
-  <img alt="Maksim Timoshuk — Quantitative ML Engineer" src="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/light.svg" width="100%">
+  <img alt="Maksim Timoshchuk — Quantitative ML Engineer" src="https://raw.githubusercontent.com/maksimiliantim/maksimiliantim/main/light.svg" width="100%">
 </picture>
 
 <p align="center">
