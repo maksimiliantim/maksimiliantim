@@ -54,8 +54,8 @@ Most of the work comes down to whether a result survives contact with live data 
 ![Mathematical statistics](https://img.shields.io/badge/mathematical_statistics-0d1117?style=flat-square&labelColor=161b22)
 ![Time series](https://img.shields.io/badge/time_series-0d1117?style=flat-square&labelColor=161b22)
 ![Options pricing](https://img.shields.io/badge/options_pricing-0d1117?style=flat-square&labelColor=161b22)
-![DataBento](https://img.shields.io/badge/DataBento-0d1117?style=flat-square&labelColor=161b22)
-![CME market data](https://img.shields.io/badge/CME_market_data-0d1117?style=flat-square&labelColor=161b22)
+![Volatility modeling](https://img.shields.io/badge/volatility_modeling-0d1117?style=flat-square&labelColor=161b22)
+![Market microstructure](https://img.shields.io/badge/market_microstructure-0d1117?style=flat-square&labelColor=161b22)
 
 **Infrastructure**
 
@@ -99,7 +99,7 @@ Implemented a Hidden Markov Model to identify latent market regimes (trending, m
 
 End-to-end pipeline implementing CBOE OVX methodology on CME WTI crude oil options and futures chains ingested via DataBento. Selects near-term and next-term contract months, applies model-free variance estimation across the full options strike surface, handles expiry alignment and forward price derivation from the futures term structure, and outputs a 30-day forward-looking implied volatility index. Focus on data integrity, reproducible calculation steps, and handling gaps in sparse strike grids.
 
-`Python` `DataBento` `SQL` `CME Data` `Options Math` `Volatility Surface`
+`Python` `SQL` `CME Options Chains` `Model-Free Variance` `Volatility Surface`
 
 ---
 
