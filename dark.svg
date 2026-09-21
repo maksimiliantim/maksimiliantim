@@ -1,23 +1,24 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-  <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#d29922" stop-opacity="0.09"/>
-      <stop offset="34%"  stop-color="#d29922" stop-opacity="0.16"/>
-      <stop offset="52%"  stop-color="#e3b341" stop-opacity="0.48"/>
-      <stop offset="76%"  stop-color="#e3b341" stop-opacity="0.92"/>
-      <stop offset="100%" stop-color="#e3b341" stop-opacity="1"/>
-    </linearGradient>
-  </defs>
-
   <rect width="900" height="220" fill="#0d1117"/>
 
-  <polyline fill="none" stroke="url(#line)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"
-    points="0,175 17.4,171 34.8,177 52.2,180 69.6,174 87,176 104.3,168 121.7,172 139.1,165 156.5,169 173.9,171 191.3,163 208.7,166 226.1,158 243.5,162 260.9,156 278.2,159 295.6,164 313,155 330.4,150 347.8,153 365.2,147 382.6,151 400,156 417.4,148 434.8,144 452.1,149 469.5,141 486.9,145 504.3,139 521.7,143 539.1,136 556.5,140 573.9,134 591.3,131 608.7,137 626,129 643.4,133 660.8,127 678.2,130 695.6,124 713,128 730.4,122 747.8,126 765.2,119 782.6,123 800,117 817.3,120 834.7,115 852,118"/>
+  <text x="52" y="100" font-size="38" font-weight="600" fill="#e6edf3" letter-spacing="-0.4">Maksim Timoshchuk</text>
+  <text x="52" y="127" font-size="13.5" fill="#8b949e" letter-spacing="0.2">Quantitative ML Engineer · Machine Learning Engineer</text>
+  <rect x="52" y="143" width="48" height="2" fill="#d29922"/>
 
-  <line x1="528" y1="118" x2="846" y2="118" stroke="#4a3f23" stroke-width="1" stroke-dasharray="3 4"/>
-  <circle cx="852" cy="118" r="3.2" fill="#e3b341"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.85" stroke-width="1.2" points="706,62.4 730,81.4 754,95.6 778,105.0 802,109.6 826,109.4 850,104.4"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.76" stroke-width="1.2" points="682,70.7 706,89.0 730,102.7 754,112.0 778,116.7 802,117.0 826,112.7"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.67" stroke-width="1.2" points="658,79.0 682,96.6 706,109.9 730,119.0 754,123.9 778,124.6 802,121.0"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.58" stroke-width="1.2" points="634,87.3 658,104.1 682,117.0 706,126.0 730,131.0 754,132.1 778,129.3"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.49" stroke-width="1.2" points="610,95.6 634,111.7 658,124.2 682,133.0 706,138.2 730,139.7 754,137.6"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.40" stroke-width="1.2" points="586,103.9 610,119.3 634,131.3 658,140.0 682,145.3 706,147.3 730,145.9"/>
+  <polyline fill="none" stroke="#e3b341" stroke-opacity="0.31" stroke-width="1.2" points="562,112.2 586,126.9 610,138.5 634,147.0 658,152.5 682,154.9 706,154.2"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="706,62.4 682,70.7 658,79.0 634,87.3 610,95.6 586,103.9 562,112.2"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="730,81.4 706,89.0 682,96.6 658,104.1 634,111.7 610,119.3 586,126.9"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="754,95.6 730,102.7 706,109.9 682,117.0 658,124.2 634,131.3 610,138.5"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="778,105.0 754,112.0 730,119.0 706,126.0 682,133.0 658,140.0 634,147.0"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="802,109.6 778,116.7 754,123.9 730,131.0 706,138.2 682,145.3 658,152.5"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="826,109.4 802,117.0 778,124.6 754,132.1 730,139.7 706,147.3 682,154.9"/>
+  <polyline fill="none" stroke="#8b949e" stroke-opacity="0.22" stroke-width="0.8" points="850,104.4 826,112.7 802,121.0 778,129.3 754,137.6 730,145.9 706,154.2"/>
 
-  <text x="52" y="94" font-size="38" font-weight="600" fill="#e6edf3" letter-spacing="-0.4">Maksim Timoshchuk</text>
-  <text x="52" y="122" font-size="13.5" fill="#8b949e" letter-spacing="0.2">Quantitative ML Engineer · Machine Learning Engineer</text>
-  <rect x="52" y="138" width="48" height="2" fill="#d29922"/>
+  <text x="856" y="200" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#484f58">implied volatility surface</text>
 </svg>
