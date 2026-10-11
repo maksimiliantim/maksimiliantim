@@ -1,19 +1,18 @@
 <svg width="900" height="265" viewBox="0 0 900 265" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <rect width="900" height="265" fill="#ffffff"/>
 <text x="52" y="34" font-size="11.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#818b98" letter-spacing="0.3">contribution activity · last 12 months</text>
-<text x="52" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Oct</text>
-<text x="112" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Nov</text>
-<text x="187" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Dec</text>
-<text x="247" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Jan</text>
-<text x="307" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Feb</text>
-<text x="367" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Mar</text>
-<text x="442" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Apr</text>
-<text x="502" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">May</text>
-<text x="577" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Jun</text>
-<text x="637" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Jul</text>
-<text x="697" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Aug</text>
-<text x="772" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Sep</text>
-<text x="832" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Oct</text>
+<text x="97" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Nov</text>
+<text x="172" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Dec</text>
+<text x="232" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Jan</text>
+<text x="292" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Feb</text>
+<text x="352" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Mar</text>
+<text x="427" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Apr</text>
+<text x="487" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">May</text>
+<text x="562" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Jun</text>
+<text x="622" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Jul</text>
+<text x="682" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Aug</text>
+<text x="757" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Sep</text>
+<text x="817" y="48" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#9198a1">Oct</text>
 <rect x="52" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="52" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="52" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -83,21 +82,21 @@
 <rect x="187" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="187" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="187" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="187" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="187" y="146" width="13" height="13" rx="2.5" fill="#8a5f00"/>
 <rect x="202" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="202" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="202" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="202" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="202" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="202" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="202" y="146" width="13" height="13" rx="2.5" fill="#8a5f00"/>
+<rect x="202" y="146" width="13" height="13" rx="2.5" fill="#dfb45e"/>
 <rect x="217" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="217" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="217" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="217" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="217" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="217" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="217" y="146" width="13" height="13" rx="2.5" fill="#dfb45e"/>
+<rect x="217" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="232" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="232" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="232" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -164,14 +163,14 @@
 <rect x="367" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="367" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="367" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="367" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="367" y="101" width="13" height="13" rx="2.5" fill="#bf8700"/>
 <rect x="367" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="367" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="367" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="382" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="382" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="382" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="382" y="101" width="13" height="13" rx="2.5" fill="#bf8700"/>
+<rect x="382" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="382" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="382" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="382" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -192,14 +191,14 @@
 <rect x="427" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="427" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="427" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="427" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="427" y="101" width="13" height="13" rx="2.5" fill="#dfb45e"/>
 <rect x="427" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="427" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="427" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="442" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="442" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="442" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="442" y="101" width="13" height="13" rx="2.5" fill="#dfb45e"/>
+<rect x="442" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="442" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="442" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="442" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -222,20 +221,20 @@
 <rect x="487" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="487" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="487" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="487" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="487" y="131" width="13" height="13" rx="2.5" fill="#bf8700"/>
 <rect x="487" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="502" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="502" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="502" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="502" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="502" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="502" y="131" width="13" height="13" rx="2.5" fill="#bf8700"/>
+<rect x="502" y="116" width="13" height="13" rx="2.5" fill="#dfb45e"/>
+<rect x="502" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="502" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="517" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="517" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="517" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="517" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="517" y="116" width="13" height="13" rx="2.5" fill="#dfb45e"/>
+<rect x="517" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="517" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="517" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="532" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -245,18 +244,18 @@
 <rect x="532" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="532" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="532" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="547" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="547" y="56" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
 <rect x="547" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="547" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="547" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="547" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="547" y="101" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
+<rect x="547" y="116" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
 <rect x="547" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="547" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="562" y="56" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
+<rect x="562" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="562" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="562" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="562" y="101" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
-<rect x="562" y="116" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
+<rect x="562" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="562" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="562" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="562" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="577" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -273,14 +272,14 @@
 <rect x="592" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="592" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="592" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="607" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="607" y="56" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
 <rect x="607" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="607" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="607" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="607" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="607" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="607" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="622" y="56" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
+<rect x="622" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="622" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="622" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="622" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -357,16 +356,16 @@
 <rect x="772" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="772" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="772" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="787" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="787" y="56" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
 <rect x="787" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="787" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
+<rect x="787" y="86" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
 <rect x="787" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="787" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="787" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="787" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="802" y="56" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
+<rect x="802" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="802" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="802" y="86" width="13" height="13" rx="2.5" fill="#f7e3bb"/>
+<rect x="802" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="802" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="802" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="802" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
@@ -379,12 +378,6 @@
 <rect x="817" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="817" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <rect x="832" y="56" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="832" y="71" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="832" y="86" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="832" y="101" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="832" y="116" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="832" y="131" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
-<rect x="832" y="146" width="13" height="13" rx="2.5" fill="#f0f3f6"/>
 <line x1="52" y1="188" x2="848" y2="188" stroke="#d1d9e0" stroke-width="1"/>
 <text x="52" y="222" font-size="26" font-weight="600" fill="#1f2328">73</text>
 <text x="52" y="240" font-size="10.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#818b98">total contributions</text>
